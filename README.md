@@ -2,11 +2,14 @@
 
 Independent Web Developer
 
-## Quick Link
+## GitHub Apps
 
-- [Opened PR](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+owner%3Ajill64)
-- [Opened Issue](https://github.com/issues?page=1&q=is%3Aopen+is%3Aissue+owner%3Ajill64+archived%3Afalse)
+- [Ghost Merge](https://github.com/apps/ghost-merge) - 👻 Auth User, Merge PR, In the Dark
 
+## Quick Links
+
+- [Opened PRs](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+owner%3Ajill64)
+- [Opened Issues](https://github.com/issues?page=1&q=is%3Aopen+is%3Aissue+owner%3Ajill64+archived%3Afalse)
 
 ## Awesome Tools
 
