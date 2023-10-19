@@ -14,4 +14,6 @@ Independent Web Developer
 ## Awesome Tools
 
 - [Draw.io](https://app.diagrams.net)
-- [Shields.io (npm)](https://shields.io/badges/npm-3)
+- Shields.io (npm)
+  - [Version](https://shields.io/badges/npm-3)
+  - [Lisence](https://shields.io/badges/npm-2)
