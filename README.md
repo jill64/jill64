@@ -4,7 +4,7 @@ Independent Web Developer
 
 ## GitHub Apps
 
-- [Ghost Merge](https://github.com/apps/ghost-merge) - 👻 Auth User, Merge PR, In the Dark
+- [Ghost Merge](https://github.com/apps/ghost-merge) - 👻 Check Author, Merge PR, In the Dark.
 
 ## Quick Links
 
