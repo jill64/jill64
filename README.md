@@ -2,8 +2,6 @@
 
 # jill64
 
-[![website](https://img.shields.io/website?up_message=working&down_message=down&url=)](https://github.com/jill64)
-
 Independent Web Developer
 
 <!----- END GHOST DOCS HEADER ----->
