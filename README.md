@@ -1,6 +1,5 @@
-# jill64
-
-Independent Web Developer
+<!----- BEGIN GHOST DOCS HEADER ----->
+<!----- END GHOST DOCS HEADER ----->
 
 ## GitHub Apps
 
@@ -14,6 +13,3 @@ Independent Web Developer
 ## Awesome Tools
 
 - [Draw.io](https://app.diagrams.net)
-- Shields.io (npm)
-  - [Version](https://shields.io/badges/npm-3)
-  - [Lisence](https://shields.io/badges/npm-2)
