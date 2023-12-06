@@ -2,14 +2,11 @@
 
 # jill64
 
+[![website](https://img.shields.io/website?up_message=working&down_message=down&url=https%3A%2F%2Fgithub.com%2Fjill64)](https://github.com/jill64)
+
 🕸️ Independent Web Developer
 
 <!----- END GHOST DOCS HEADER ----->
-
-## Application
-
-- [Web Apps](https://github.com/jill64?tab=repositories&q=web-app)
-- [GitHub Apps](https://github.com/jill64?tab=repositories&q=github-app)
 
 ## Quick Link
 
