@@ -6,11 +6,6 @@
 
 <!----- END GHOST DOCS HEADER ----->
 
-## Application
-
-- [Web Apps](https://github.com/jill64?tab=repositories&q=web-app)
-- [GitHub Apps](https://github.com/jill64?tab=repositories&q=github-app)
-
 ## Quick Link
 
 - [PR](https://github.com/pulls?q=is%3Aopen+is%3Apr+archived%3Afalse+owner%3Ajill64)
