@@ -1,7 +1,25 @@
-# jill64
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jill64&show_icons=true&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jill64&show_icons=true&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jill64&show_icons=true" />
+</picture>
 
-🕸️ Independent Web Developer
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jill64&show_icons=true&layout=compact&theme=dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jill64&show_icons=true&layout=compact&theme=default&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jill64&show_icons=true" />
+</picture>
 
-## Quick Link
-
-- [Issues](https://github.com/issues?page=1&q=is%3Aopen+owner%3Ajill64+archived%3Afalse+NOT+%22Dependency+Dashboard%22)
+## [All Issues](https://github.com/issues?q=is%3Aopen+owner%3Ajill64+archived%3Afalse+NOT+%22Dependency+Dashboard%22+sort%3Aupdated-desc)
