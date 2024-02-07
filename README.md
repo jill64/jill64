@@ -21,5 +21,3 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jill64&show_icons=true" />
 </picture>
-
-## [All Issues](https://github.com/issues?q=is%3Aopen+owner%3Ajill64+archived%3Afalse+NOT+%22Dependency+Dashboard%22+sort%3Aupdated-desc)
