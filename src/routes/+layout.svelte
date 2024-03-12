@@ -1,6 +1,6 @@
 <script lang="ts">
-  import header from '$lib/assets/header.png'
   import icon from '$lib/assets/jill.png'
+  import image from '$lib/assets/og-image.png'
   import {
     FlipButton,
     OGP,
@@ -16,7 +16,7 @@
 
 <Toaster dark={$theme === 'dark'} />
 <ThemeManager />
-<OGP {title} {description} site_name={title} image={header} />
+<OGP {title} {description} site_name={title} {image} />
 
 <svelte:head>
   <link rel="icon" href={icon} />
