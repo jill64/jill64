@@ -11,7 +11,7 @@
   import '../app.postcss'
 
   const title = 'jill64'
-  const description = 'Independent Web Developer'
+  const description = 'Independent Web Developer | Embedded Engineer'
 </script>
 
 <Toaster dark={$theme === 'dark'} />
