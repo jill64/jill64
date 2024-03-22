@@ -20,7 +20,7 @@
     "@playwright/test": "1.42.1",
     "@sveltejs/adapter-cloudflare": "4.2.0",
     "@sveltejs/kit": "2.5.4",
-    "svelte": "5.0.0-next.81",
+    "svelte": "5.0.0-next.82",
     "typescript": "5.4.3",
     "vite": "5.2.3",
     "vitest": "1.4.0",
