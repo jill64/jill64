@@ -6,8 +6,8 @@ settings:
 
 devDependencies:
   '@jill64/eslint-config-svelte':
-    specifier: 1.2.17
-    version: 1.2.17(svelte@5.0.0-next.95)(typescript@5.4.4)
+    specifier: 1.2.18
+    version: 1.2.18(svelte@5.0.0-next.95)(typescript@5.4.4)
   '@jill64/playwright-config':
     specifier: 2.2.5
     version: 2.2.5(@playwright/test@1.43.0)
@@ -845,8 +845,8 @@ packages:
     resolution: {integrity: sha512-IK0NpUnVdxTlZLgc24DmwZk1UsDCz3g8ZvmQVRFBph7cr55wQgpnj8cIrF7rvdFc4u9TR7fGOw0KWhcCRCahJQ==}
     dev: true
 
-  /@jill64/eslint-config-svelte@1.2.17(svelte@5.0.0-next.95)(typescript@5.4.4):
-    resolution: {integrity: sha512-OSwoMwJI+L7fMLAJ32fSjsFH0KpM7qgMVy5nVHtS1MIEDUthhlEDjApoleJYybeNoEw3PWPP7cBCEDEK8TRNOQ==}
+  /@jill64/eslint-config-svelte@1.2.18(svelte@5.0.0-next.95)(typescript@5.4.4):
+    resolution: {integrity: sha512-F5eSMoe2KQPdguq2i1BYWLaHm8EDudGsIoDgT03CyHtWS2dPg1m9I0ARRqf+AVq877ThPwgjBSGXV63VzOE4Yw==}
     peerDependencies:
       svelte: ^4.0.0
     dependencies:
@@ -859,7 +859,7 @@ packages:
       eslint-plugin-deprecation: 2.0.0(eslint@8.57.0)(typescript@5.4.4)
       eslint-plugin-svelte: 2.36.0(eslint@8.57.0)(svelte@5.0.0-next.95)
       svelte: 5.0.0-next.95
-      svelte-eslint-parser: 0.34.0(svelte@5.0.0-next.95)
+      svelte-eslint-parser: 0.34.1(svelte@5.0.0-next.95)
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -2248,7 +2248,7 @@ packages:
       postcss-selector-parser: 6.0.16
       semver: 7.6.0
       svelte: 5.0.0-next.95
-      svelte-eslint-parser: 0.34.0(svelte@5.0.0-next.95)
+      svelte-eslint-parser: 0.34.1(svelte@5.0.0-next.95)
     transitivePeerDependencies:
       - supports-color
       - ts-node
@@ -2529,7 +2529,7 @@ packages:
     dependencies:
       foreground-child: 3.1.1
       jackspeak: 2.3.6
-      minimatch: 9.0.3
+      minimatch: 9.0.4
       minipass: 7.0.4
       path-scurry: 1.10.1
     dev: true
@@ -3212,7 +3212,7 @@ packages:
       postcss: ^8.2.14
     dependencies:
       postcss: 8.4.38
-      postcss-selector-parser: 6.0.15
+      postcss-selector-parser: 6.0.16
     dev: true
 
   /postcss-safe-parser@6.0.0(postcss@8.4.38):
@@ -3231,14 +3231,6 @@ packages:
       postcss: ^8.4.29
     dependencies:
       postcss: 8.4.38
-    dev: true
-
-  /postcss-selector-parser@6.0.15:
-    resolution: {integrity: sha512-rEYkQOMUCEMhsKbK66tbEU9QVIxbhN18YiniAwA7XQYTVBqrBy+P2p5JcdqsHgKM2zWylp8d7J6eszocfds5Sw==}
-    engines: {node: '>=4'}
-    dependencies:
-      cssesc: 3.0.0
-      util-deprecate: 1.0.2
     dev: true
 
   /postcss-selector-parser@6.0.16:
@@ -3582,8 +3574,8 @@ packages:
       ts-serde: 1.0.3
     dev: true
 
-  /svelte-eslint-parser@0.34.0(svelte@5.0.0-next.95):
-    resolution: {integrity: sha512-jOozxWbHVtIFt6fvettJK9T9aK1AyrcWBJzqcjqJxkr7QfgMYWjHNVlG/qFFOr72cw8mUVS/D/8BO6HlPEtNug==}
+  /svelte-eslint-parser@0.34.1(svelte@5.0.0-next.95):
+    resolution: {integrity: sha512-9+uLA1pqI9AZioKVGJzYYmlOZWxfoCXSbAM9iaNm7H01XlYlzRTtJfZgl9o3StQGN41PfGJIbkKkfk3e/pHFfA==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     peerDependencies:
       svelte: ^3.37.0 || ^4.0.0 || ^5.0.0-next.94
@@ -3712,7 +3704,7 @@ packages:
       postcss-js: 4.0.1(postcss@8.4.38)
       postcss-load-config: 4.0.2(postcss@8.4.38)
       postcss-nested: 6.0.1(postcss@8.4.38)
-      postcss-selector-parser: 6.0.15
+      postcss-selector-parser: 6.0.16
       resolve: 1.22.8
       sucrase: 3.35.0
     transitivePeerDependencies:
