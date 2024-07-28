@@ -21,8 +21,8 @@ importers:
         specifier: 1.7.16
         version: 1.7.16(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@jill64/svelte-suite':
-        specifier: 1.2.224
-        version: 1.2.224(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
+        specifier: 1.2.225
+        version: 1.2.225(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@jill64/svelte-tailwind':
         specifier: 1.2.49
         version: 1.2.49(jiti@1.21.0)(yaml@2.4.2)
@@ -445,8 +445,8 @@ packages:
     peerDependencies:
       '@sveltejs/kit': 1.x || 2.x
 
-  '@jill64/svelte-dark-theme@2.3.90':
-    resolution: {integrity: sha512-uLlLk6Mv3bffKZITTFsPwyLhb1yJXwQHzF6QkvC55sclZQ6VM+USImn8CcpYMwWbUzPd93NYFL8lJqaIb9Sv1g==}
+  '@jill64/svelte-dark-theme@2.3.91':
+    resolution: {integrity: sha512-/XwbtmqoEqvT92rZO5nuSwsVhLxUeZjWjBYpnRrN7Q2gBAtzCuKFYQQl0qDirf7cayE45dUZuBFmvqVK9XbvaQ==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -484,20 +484,14 @@ packages:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
 
-  '@jill64/svelte-storage@1.2.1':
-    resolution: {integrity: sha512-is9db4uiM+6KZqt53Vy7XgbkzUOE16qAJyXeOrUcjVf/e2zSa+9wZJGHL41H7gNfXYkFGgmndWWXtjHRFeo/Dw==}
-    peerDependencies:
-      '@sveltejs/kit': ^2.0.0
-      svelte: ^4.0.0
-
   '@jill64/svelte-storage@1.2.2':
     resolution: {integrity: sha512-gT5i6SlebUuI5DqehpOCOoKwMo9nV8RZiPxoFRr0DEdKzmwqLcbECAbMhZAwUr8SyuDsn+CfNKedS/tdygcq5w==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
 
-  '@jill64/svelte-suite@1.2.224':
-    resolution: {integrity: sha512-3eJZLlJmPGPzz2qxiRFhh5/NlHwSy9xCZzXo3HXqjd0GOIbBzPC7qBONPXdm1GfQ4zXR+C+emBxu7BlMY3gisA==}
+  '@jill64/svelte-suite@1.2.225':
+    resolution: {integrity: sha512-Rx9YCyCcbLJQ2twJ0yKMOo7nC5tIi1QbM8UkuGFhJa3V4eDOIT0dQDlb/AFVTtzcuZI4Cy79n3zWToCCAXFj6g==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -2430,11 +2424,11 @@ snapshots:
     transitivePeerDependencies:
       - svelte
 
-  '@jill64/svelte-dark-theme@2.3.90(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
+  '@jill64/svelte-dark-theme@2.3.91(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
     dependencies:
       '@jill64/svelte-device-theme': 1.2.25(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@jill64/svelte-html': 1.1.19(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
-      '@jill64/svelte-storage': 1.2.1(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
+      '@jill64/svelte-storage': 1.2.2(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27))
       svelte: 5.0.0-next.172
       svelte-baked-cookie: 1.0.31(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
@@ -2479,21 +2473,15 @@ snapshots:
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27))
       svelte: 5.0.0-next.172
 
-  '@jill64/svelte-storage@1.2.1(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
-    dependencies:
-      '@jill64/typed-storage': 3.1.2
-      '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27))
-      svelte: 5.0.0-next.172
-
   '@jill64/svelte-storage@1.2.2(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
     dependencies:
       '@jill64/typed-storage': 3.1.2
       '@sveltejs/kit': 2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27))
       svelte: 5.0.0-next.172
 
-  '@jill64/svelte-suite@1.2.224(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
+  '@jill64/svelte-suite@1.2.225(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)':
     dependencies:
-      '@jill64/svelte-dark-theme': 2.3.90(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
+      '@jill64/svelte-dark-theme': 2.3.91(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@jill64/svelte-i18n': 1.1.47(@sveltejs/kit@2.5.18(@sveltejs/vite-plugin-svelte@3.1.1(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)(vite@5.3.5(@types/node@20.11.27)))(svelte@5.0.0-next.172)
       '@jill64/svelte-input': 1.6.34(svelte@5.0.0-next.172)
       '@jill64/svelte-menu': 1.0.26(svelte@5.0.0-next.172)
