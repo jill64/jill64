@@ -21,8 +21,8 @@ importers:
         specifier: 1.7.16
         version: 1.7.16(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
       '@jill64/svelte-suite':
-        specifier: 1.2.240
-        version: 1.2.240(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
+        specifier: 1.2.241
+        version: 1.2.241(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
       '@jill64/svelte-tailwind':
         specifier: 1.2.63
         version: 1.2.63(jiti@1.21.0)(yaml@2.4.2)
@@ -490,8 +490,8 @@ packages:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
 
-  '@jill64/svelte-suite@1.2.240':
-    resolution: {integrity: sha512-mmgIO3zQwO9o59W6Wiirwdtf66B+n2AylH3wKiTYE5K5+C7CfS45i/RoXVLCpPdDp0AkPFnE5Abnh2dA6Pc5Fg==}
+  '@jill64/svelte-suite@1.2.241':
+    resolution: {integrity: sha512-/x0mydxSlD5j+pw5zq7N92WXceEDAXYzun5uNHJyrMno7LAafBFT5ROR1X15klLcWcrnENHwjBddU1WaCs6AQw==}
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0
@@ -1079,6 +1079,9 @@ packages:
 
   devalue@5.0.0:
     resolution: {integrity: sha512-gO+/OMXF7488D+u3ue+G7Y4AA3ZmUnB3eHJXmBTgNHvr4ZNzl36A0ZtG+XCRNYCkYx/bFmw4qtkoFLa+wSrwAA==}
+
+  devalue@5.1.1:
+    resolution: {integrity: sha512-maua5KUiapvEwiEAe+XnlZ3Rh0GD+qI1J/nb9vrJc3muPXvcF/8gXYTWF76+5DAqHyDUtOIImEuo0YKE9mshVw==}
 
   didyoumean@1.2.2:
     resolution: {integrity: sha512-gxtyfqMg7GKyhQmb056K7M3xszy/myH8w+B4RT+QXBQsvAOdc3XymqDDPHx1BgPgsdAA5SIifona89YtRATDzw==}
@@ -1969,6 +1972,9 @@ packages:
   ts-serde@1.0.7:
     resolution: {integrity: sha512-uKLELc4t1+3eufCypJFFIPHfjtEvTzeWKcTSMbXvwrAqupf0VLh80L7iZxCn7zHbA77BhX3Z8if52hP65ruebw==}
 
+  ts-serde@1.0.8:
+    resolution: {integrity: sha512-YUBuQDm5uIpCIklGrU0by8uf4ZLBkIO1/mf7Gha83qn2iz54p/pmlXQanTaQZBSWB0EiJKQUo/ur72XvQpStAQ==}
+
   tslib@2.6.2:
     resolution: {integrity: sha512-AEYxH93jGFPn/a2iVAwW87VuUIkR1FVUKB77NwMF7nBTDkDrrT/Hpt/IrCJ0QXhW27jTBDcf5ZY7w6RiqTMw2Q==}
 
@@ -2472,7 +2478,7 @@ snapshots:
       '@sveltejs/kit': 2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27))
       svelte: 5.0.0-next.259
 
-  '@jill64/svelte-suite@1.2.240(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)':
+  '@jill64/svelte-suite@1.2.241(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)':
     dependencies:
       '@jill64/svelte-dark-theme': 2.3.95(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
       '@jill64/svelte-i18n': 1.1.49(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
@@ -2486,7 +2492,7 @@ snapshots:
       svelte-feather-icons: 4.1.0
       svelte-inline-modal: 1.1.22(svelte@5.0.0-next.259)
       svelte-qparam: 1.0.32(@sveltejs/kit@2.5.28(@sveltejs/vite-plugin-svelte@3.1.2(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)(vite@5.4.8(@types/node@20.11.27)))(svelte@5.0.0-next.259)
-      ts-serde: 1.0.7
+      ts-serde: 1.0.8
 
   '@jill64/svelte-tailwind@1.2.63(jiti@1.21.0)(yaml@2.4.2)':
     dependencies:
@@ -3104,6 +3110,8 @@ snapshots:
   deepmerge@4.3.1: {}
 
   devalue@5.0.0: {}
+
+  devalue@5.1.1: {}
 
   didyoumean@1.2.2: {}
 
@@ -4030,6 +4038,10 @@ snapshots:
   ts-serde@1.0.7:
     dependencies:
       devalue: 5.0.0
+
+  ts-serde@1.0.8:
+    dependencies:
+      devalue: 5.1.1
 
   tslib@2.6.2: {}
 
