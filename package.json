@@ -19,7 +19,7 @@
     "@jill64/svelte-tailwind": "1.2.69",
     "@playwright/test": "1.49.0",
     "@sveltejs/adapter-cloudflare": "4.7.4",
-    "@sveltejs/kit": "2.8.2",
+    "@sveltejs/kit": "2.8.3",
     "svelte": "5.2.7",
     "typescript": "5.7.2",
     "vite": "5.4.11",
