@@ -23,7 +23,7 @@
     "svelte": "5.3.1",
     "typescript": "5.7.2",
     "vite": "5.4.11",
-    "vitest": "2.1.6",
+    "vitest": "2.1.7",
     "@sveltejs/vite-plugin-svelte": "4.0.2"
   }
 }
