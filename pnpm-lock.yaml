@@ -24,8 +24,8 @@ importers:
         specifier: 1.2.261
         version: 1.2.261(@sveltejs/kit@2.15.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.16.0)(vite@6.0.6(@types/node@20.11.27)(jiti@1.21.6)(yaml@2.4.2)))(svelte@5.16.0)(vite@6.0.6(@types/node@20.11.27)(jiti@1.21.6)(yaml@2.4.2)))(svelte@5.16.0)
       '@jill64/svelte-tailwind':
-        specifier: 1.2.72
-        version: 1.2.72(jiti@1.21.6)(yaml@2.4.2)
+        specifier: 1.2.74
+        version: 1.2.74(jiti@1.21.6)(yaml@2.4.2)
       '@playwright/test':
         specifier: 1.49.1
         version: 1.49.1
@@ -673,21 +673,21 @@ packages:
       '@sveltejs/kit': ^2.0.0
       svelte: ^4.0.0 || ^5.0.0
 
-  '@jill64/svelte-tailwind@1.2.72':
-    resolution: {integrity: sha512-JqxnREgXLrLXmMRNZKbKAGSzpIhBXhyssFAKMqi56CCqp+oQTRhM02bgOy14Ap/DkSqHiwUTIYSWXnl/eMFi8A==}
+  '@jill64/svelte-tailwind@1.2.74':
+    resolution: {integrity: sha512-XDQ97M231B4f/IrHOXj3TCWvTLNpV2uBwypOtvAyR6cMbnIza5y3/l81s9zYNLE8DhuJzQkZaXbSlCjkE0eXyw==}
 
   '@jill64/svelte-toast@1.3.56':
     resolution: {integrity: sha512-cc3DMFpg7kpDZtp4bH8KYZJoPxnlCll7n3eUIfgzi1BOBkdJ3Nhs8/LWdrmzeBpSpORfuXN12mH2xHLbJ+iSrg==}
     peerDependencies:
       svelte: ^4.0.0
 
-  '@jill64/tailwind-grid-auto@1.3.34':
-    resolution: {integrity: sha512-xrhqaKfDM1tadGjU46w10PkM2IpPAVo+L3fisW8jE6ggXgdQV89ckDiHhkSIqgCo41WEmrWyB25uZZGkrBRZ2w==}
+  '@jill64/tailwind-grid-auto@1.4.0':
+    resolution: {integrity: sha512-vtub92/7DD9IgIYowL0yB+VaBeBca4R3SI2dY6Ba5S0jo4NaEBVmwbiVfjTkR8GnsHZFoHBvXYDJckP3/N6+mA==}
     peerDependencies:
       tailwindcss: ^3.0.0
 
-  '@jill64/tailwind-reactions@1.2.31':
-    resolution: {integrity: sha512-DH3LZJs5h+miX66F68A7FXomXYK0DkBzJvVxJOXyzNf+u06R4V8Jj+7B/6QYlBTBqhctjuQ7IVDyg0yt4k6dEA==}
+  '@jill64/tailwind-reactions@1.3.0':
+    resolution: {integrity: sha512-jgc+pRmDB/nMqjWiYDh6rrtihWDSQeWvGk1GyoEjsigPERKjlV4fU+m6DOTgvZSmMHF8a6BxKoxmR3J1RV5BwQ==}
     peerDependencies:
       tailwindcss: ^3.0.0
 
@@ -1164,10 +1164,6 @@ packages:
   cookie@0.7.2:
     resolution: {integrity: sha512-yki5XnKuf750l50uGTllt6kKILY4nQ1eNIQatoXEByZ5dWgnKqbnqmTrBE5B4N7lrMJKQ2ytWMiTO2o0v6Ew/w==}
     engines: {node: '>= 0.6'}
-
-  cross-spawn@7.0.5:
-    resolution: {integrity: sha512-ZVJrKKYunU38/76t0RMOulHOnUcbU9GbpWKAOZ0mhjr7CX6FVrH+4FrAapSOekrgFQ3f/8gwMEuIft0aKq6Hug==}
-    engines: {node: '>= 8'}
 
   cross-spawn@7.0.6:
     resolution: {integrity: sha512-uV2QOWP2nWzsy2aMp8aRibhi9dlzF5Hgh5SHaB9OiTGEyDTiJJyx0uy51QXdyWbtAHNua4XJzUKca3OzKUd3vA==}
@@ -2705,10 +2701,10 @@ snapshots:
       svelte-qparam: 1.0.37(@sveltejs/kit@2.15.1(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.16.0)(vite@6.0.6(@types/node@20.11.27)(jiti@1.21.6)(yaml@2.4.2)))(svelte@5.16.0)(vite@6.0.6(@types/node@20.11.27)(jiti@1.21.6)(yaml@2.4.2)))(svelte@5.16.0)
       ts-serde: 1.0.8
 
-  '@jill64/svelte-tailwind@1.2.72(jiti@1.21.6)(yaml@2.4.2)':
+  '@jill64/svelte-tailwind@1.2.74(jiti@1.21.6)(yaml@2.4.2)':
     dependencies:
-      '@jill64/tailwind-grid-auto': 1.3.34(tailwindcss@3.4.17)
-      '@jill64/tailwind-reactions': 1.2.31(tailwindcss@3.4.17)
+      '@jill64/tailwind-grid-auto': 1.4.0(tailwindcss@3.4.17)
+      '@jill64/tailwind-reactions': 1.3.0(tailwindcss@3.4.17)
       autoprefixer: 10.4.20(postcss@8.4.49)
       postcss: 8.4.49
       postcss-load-config: 6.0.1(jiti@1.21.6)(postcss@8.4.49)(yaml@2.4.2)
@@ -2728,11 +2724,11 @@ snapshots:
     transitivePeerDependencies:
       - '@sveltejs/kit'
 
-  '@jill64/tailwind-grid-auto@1.3.34(tailwindcss@3.4.17)':
+  '@jill64/tailwind-grid-auto@1.4.0(tailwindcss@3.4.17)':
     dependencies:
       tailwindcss: 3.4.17
 
-  '@jill64/tailwind-reactions@1.2.31(tailwindcss@3.4.17)':
+  '@jill64/tailwind-reactions@1.3.0(tailwindcss@3.4.17)':
     dependencies:
       tailwindcss: 3.4.17
 
@@ -3223,12 +3219,6 @@ snapshots:
 
   cookie@0.7.2: {}
 
-  cross-spawn@7.0.5:
-    dependencies:
-      path-key: 3.1.1
-      shebang-command: 2.0.0
-      which: 2.0.2
-
   cross-spawn@7.0.6:
     dependencies:
       path-key: 3.1.1
@@ -3517,7 +3507,7 @@ snapshots:
 
   foreground-child@3.1.1:
     dependencies:
-      cross-spawn: 7.0.5
+      cross-spawn: 7.0.6
       signal-exit: 4.1.0
 
   fraction.js@4.3.7: {}
