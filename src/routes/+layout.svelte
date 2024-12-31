@@ -14,7 +14,7 @@
   const description = 'Independent Web Developer | Embedded Engineer'
 </script>
 
-<Toaster dark={$theme === 'dark'} />
+<Toaster dark={theme.isDark} />
 <ThemeManager />
 <OGP {title} {description} site_name={title} {image} />
 
